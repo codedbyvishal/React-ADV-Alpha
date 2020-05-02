@@ -2,7 +2,7 @@
 
 ## Initialize Node project
 
-- ##### `$yarn init -y`
+npm install 
 
 ## Install dependencies
 
